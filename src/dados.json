@@ -1,0 +1,189 @@
+    [
+        {
+            "nome": "C280",
+            "marca": "Mercedes-Bens",
+            "ano": 1996,
+            "cor": "Azul"
+        },
+        {
+            "nome": "C280",
+            "marca": "Mercedes-Bens",
+            "ano": 1996,
+            "cor": "Preto"
+        },
+        {
+            "nome": "C280",
+            "marca": "Mercedes-Bens",
+            "ano": 1997,
+            "cor": "Branco"
+        },
+        {
+            "nome": "F40",
+            "marca": "Ferrari",
+            "ano": 1990,
+            "cor": "Vermelho"
+        },
+        {
+            "nome": "C280",
+            "marca": "Mercedes-Bens",
+            "ano": 1996,
+            "cor": "Azul"
+        },
+        {
+            "nome": "Mustang",
+            "marca": "Ford",
+            "ano": 1995,
+            "cor": "Preto"
+        },
+        {
+            "nome": "Carreira GT3 997",
+            "marca": "Porsche",
+            "ano": 2010,
+            "cor": "Verde"
+        },
+        {
+            "nome": "Cayman GT4 RS 718",
+            "marca": "Porsche",
+            "ano": 2021,
+            "cor": "Cinza"
+        },
+        {
+            "nome": "Chevelle SS",
+            "marca": "Chevrolet",
+            "ano": 1967,
+            "cor": "Azul"
+        },
+        {
+            "nome": "Cayman GT3 718",
+            "marca": "Porsche",
+            "ano": 2021,
+            "cor": "Cinza"
+        },        
+        {
+            "nome": "Golf Mk3",
+            "marca": "Volkswagen",
+            "ano": 1996,
+            "cor": "Branco"
+        },
+        {
+            "nome": "C36",
+            "marca": "Mercedes-Bens",
+            "ano": 1996,
+            "cor": "Preto"
+        },
+        {
+            "nome": "F50",
+            "marca": "Ferrari",
+            "ano": 1996,
+            "cor": "Vermelho"
+        },
+        {
+            "nome": "Polara",
+            "marca": "Dodge",
+            "ano": 1964,
+            "cor": "Vermelho"
+        },
+        {
+            "nome": "Chevelle SS",
+            "marca": "Chevrolet",
+            "ano": 1964,
+            "cor": "Branco"
+        },
+        {
+            "nome": "250 GT/E",
+            "marca": "Ferrari",
+            "ano": 1963,
+            "cor": "Cinza"
+        },
+        {
+            "nome": "C43",
+            "marca": "Mercedes-Bens",
+            "ano": 1997,
+            "cor": "Preto"
+        },
+        {
+            "nome": "190 E 2.5-16 Evolution II",
+            "marca": "Mitsubishi",
+            "ano": 1982,
+            "cor": "Preto"
+        },
+        {
+            "nome": "599 GTB",
+            "marca": "Ferrari",
+            "ano": 2012,
+            "cor": "Vermelho"
+        },
+        {
+            "nome": "230 C",
+            "marca": "Mercedes-Bens",
+            "ano": 1989,
+            "cor": "Prata"
+        },
+        {
+            "nome": "E36 325i",
+            "marca": "BMW",
+            "ano": 1996,
+            "cor": "Amarela"
+        },
+        {
+            "nome": "Challenger R/T",
+            "marca": "Dodge",
+            "ano": 1970,
+            "cor": "Marrom"
+        },
+        {
+            "nome": "C280",
+            "marca": "Mercedes-Bens",
+            "ano": 1996,
+            "cor": "Azul"
+        },
+        {
+            "nome": "280 CE",
+            "marca": "Mercedes-Bens",
+            "ano": 1987,
+            "cor": "Prata"
+        },
+        {
+            "nome": "C55 AMG",
+            "marca": "Mercedes-Bens",
+            "ano": 2002,
+            "cor": "Vermelho"
+        },
+        {
+            "nome": "Golf GTI VR6 Mk3",
+            "marca": "Volkswagen",
+            "ano": 1994,
+            "cor": "Vermelho"
+        },
+        {
+            "nome": "E320",
+            "marca": "Mercedes-Bens",
+            "ano": 1997,
+            "cor": "Azul"
+        },
+        {
+            "nome": "Malibu",
+            "marca": "Chevrolet",
+            "ano": 1966,
+            "cor": "Azul"
+        },
+        {
+            "nome": "Maverick",
+            "marca": "Ford",
+            "ano": 2021,
+            "cor": "Azul"
+        },
+        {
+            "nome": "Ranger",
+            "marca": "Ford",
+            "ano": 2021,
+            "cor": "Azul"
+        },
+        {
+            "nome": "F-250",
+            "marca": "Ford",
+            "ano": 2021,
+            "cor": "Preto"
+        }
+    ]
+    
