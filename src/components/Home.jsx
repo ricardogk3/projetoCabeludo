@@ -1,4 +1,4 @@
-import React, {Component, useState,} from 'react';
+import React, {Component} from 'react';
 import Graficdois from './Graficdois';
 import Graficum from './Graficum';
 import List from './List';
@@ -28,21 +28,16 @@ class Home extends Component {
     const local = Object.values(dadosLocais);
 
     for(var key in local) {
-        var controle= '';
-        var controleT= '';
-        for(var c = 0;c < escrito.length; c++){
-            controle = controle + local[key].nome[c]
-            controleT = controleT + local[key].marca[c]
+        if(local[key].nome.includes(escrito) || local[key].marca.includes(escrito) ){
+          allDados.push({
+              nome:local[key].nome,
+              marca:local[key].marca,
+              ano:local[key].ano,
+              cor:local[key].cor
+          })
         }
 
-        if(escrito == controle|| escrito == controleT){
-            allDados.push({
-                nome:local[key].nome,
-                marca:local[key].marca,
-                ano:local[key].ano,
-                cor:local[key].cor
-            })
-        }else if(escrito == ""){
+        else if(escrito == ""){
             allDados = dadosLocais
         }  
     }
@@ -104,14 +99,14 @@ const styles = {
     container: {
       margin:0,
       flex: 1,
-      background:'#282c34',
+      // background:'#282c34',
     },
     title:{
       display: "flex", 
       alignItems: 'center', 
       justifyContent: 'center',  
       color: 'Blue',
-      fontSize: 36,
+      fontSize: 50,
       fontWeight: 'bold',
       margin: 30,
       fontFamily: 'MMA Champ',
@@ -139,7 +134,7 @@ const styles = {
       width: '70%', 
       color:'white',  
       // border: '1px solid gray', 
-      margin:5,
+      // margin:5,
     },
     c3:{
       // display: "flex",
@@ -148,7 +143,7 @@ const styles = {
       width: '40%', 
       color:'white',  
       // border: '1px solid gray', 
-      margin:5,
+      // margin:5,
     },
     c4:{
       display: "flex", 
@@ -162,7 +157,7 @@ const styles = {
       marginBottom:30,
     },
     c5:{
-      height:"20%"
+      // height:"20%"
     },
   
   };
